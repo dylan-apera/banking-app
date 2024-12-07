@@ -21,3 +21,6 @@ The advance segment of this challenge will come soon.
 - Leverage Rest API's.
 - Use a basic frontend that is publically available.
 - Use Azure and Infrastructure as Code to deploy backend services.
+
+
+Answers to this challenge will be stored in the repository and available to all. 
